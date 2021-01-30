@@ -1,5 +1,0 @@
-opencv
-numpy
-pytorch
-pillow
-torchvision
