@@ -6,7 +6,7 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - opencv
+  - python-opencv
   - pytorch
   - pillow
   - matplotlib
