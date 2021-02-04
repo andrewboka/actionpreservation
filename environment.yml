@@ -9,9 +9,9 @@ dependencies:
   - pytorch
   - pillow
   - matplotlib
-  - sk-video
   - torchvision
   - pip:
+    - skvideo
     - opencv-python
     - utils
 
