@@ -6,12 +6,12 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - python-opencv
   - pytorch
   - pillow
   - matplotlib
   - sk-video
   - torchvision
   - pip:
+    - opencv-python
     - utils
 
