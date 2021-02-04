@@ -1,8 +1,8 @@
-backcall==0.2.0==py_0
-blas==1.0==mkl
-ca-certificates==2021.1.19==haa95532_0
-certifi==2020.12.5==py38haa244fe_1
-colorama==0.4.4==py_0
+backcall==0.2.0
+blas==1.0
+ca-certificates==2021.1.19
+certifi==2020.12.5
+colorama==0.4.4
 cudatoolkit==11.0.221==h74a9793_0
 cycler==0.10.0==py38_0
 decorator==4.4.2==py_0
