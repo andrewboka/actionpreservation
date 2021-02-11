@@ -10,6 +10,7 @@ dependencies:
   - pillow
   - matplotlib
   - torchvision
+  - mesa-libgl-cos6-x86_64
   - pip:
     - sk-video
     - opencv-python
